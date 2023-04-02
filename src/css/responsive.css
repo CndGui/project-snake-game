@@ -1,0 +1,28 @@
+@media (max-width: 460px) {
+    .game-details {
+        font-size: 1em;
+        padding: 10px 15px;
+    }
+
+    .controls i {
+        padding: 5px 0;
+    }
+}
+
+@media (max-width: 360px) {
+    .game-details {
+        font-size: 0.8em;
+        padding: 5px 10px;
+    }
+
+    .controls i {
+        font-size: 0.8em;
+        padding: 0;
+    }
+}
+
+@media (max-width: 265px) {
+    .wrapper {
+        height: 80vmin;
+    }
+}
